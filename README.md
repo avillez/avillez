@@ -2,7 +2,7 @@
 
 **`Estudante de Analise e Desenvolvimento de sistemas`**
 
-Oi, meu nome é Yuri Avillez Nogueira, tenho 17 anos e sou do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio, no primeiro período. Sou ex-aluno da Alura e tenho um grande interesse por tecnologia e programação.
+Oi, meu nome é Yuri Avillez Nogueira, tenho 18 anos e sou do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, no segundo período. Sou ex-aluno da Alura e tenho um grande interesse por tecnologia e programação.
 
 
 ### 🤖 Linguagens e Tecnologias
